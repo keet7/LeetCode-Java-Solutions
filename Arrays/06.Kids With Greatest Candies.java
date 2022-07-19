@@ -1,4 +1,4 @@
-[Question 5](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
+[Question 6](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
              
 Solution:
 class Solution {
